@@ -1,0 +1,22 @@
+label{
+    color: rgb(18, 0, 100);
+    font-size: 40px;
+}
+
+input{
+    height: 40px;
+    width: 300px;
+    background-color: rgb(34, 241, 44);
+    border-radius: 25px;
+    
+}
+
+input::placeholder{
+    color: rgb(0, 109, 109);
+    font-size: 25px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+}
+

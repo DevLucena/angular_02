@@ -1,16 +1,23 @@
 * {
     font-family: sans-serif;
-    background: yellowgreen;
-    max-width: 100%;
-    max-height: 100%;
+    background: rgb(50, 148, 205);
+   
 }
 
-.principal{
+.form{
 
-    width: 250px;
-    height: 250px;
+    height: 100vh;
     display: flex;
-    grid-column: auto;
-    background-color: yellowgreen;
+    align-items: center;
+    justify-content: center;
+    flex-direction:column;
+    border: 2px solid black;
+}
 
+h1{
+    color: yellow
+}
+
+div{
+    padding-bottom: 15px;
 }

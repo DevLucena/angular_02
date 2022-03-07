@@ -1,0 +1,15 @@
+label{
+    color: rgb(73, 0, 63);
+    font-size: 30px;
+}
+
+input{
+    height: 50px;
+    width: 150px;
+    align-items: center;
+    justify-content: left;
+    font-size: 17px;
+    color: rgb(55, 0, 255);
+    background-color: rgb(226, 158, 0);
+    border-radius: 25px;
+}
